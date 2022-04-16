@@ -10,3 +10,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 4) enter the command - `npm start`
 
 ### note that node.js and react should be installed already.
+
+![This is an image](https://github.com/eishaarif19/React_MultipleOutputs_Task/blob/9d98e099226a20a818d1d711e4e192dae65cb479/display.png)

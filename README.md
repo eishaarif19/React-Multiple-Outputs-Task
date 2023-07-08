@@ -1,4 +1,4 @@
-# App to take Input and Display it in real time changing Outputs
+# App to take Input and Display it in real time changing Outputs 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
